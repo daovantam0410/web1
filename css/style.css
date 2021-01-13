@@ -1,0 +1,73 @@
+hr{
+	border-collapse: collapse;
+	/*border: 1px solid ;*/
+}
+.card,.img{
+	width: 305px;
+	height: 408px;
+}
+.card-text{
+	text-align: center;
+	font-family: brandon-grot-w01-light, sans-serif;
+	font-size: 16px;
+	line-height: 1.4em;
+	margin-top: 20px;
+}
+.alb1{
+	padding-right: 84px;
+	padding-left: 84px;
+}
+.hr1{
+	margin-left: 74px;
+}
+.hr2{
+	margin-right: 74px;
+}
+.hr3{
+	margin-top: 28px;
+}
+.alb{
+	margin-bottom: 60px;
+}
+.shop-all{
+	margin-top: 120px;
+	margin-bottom: 115px;
+}
+.footer{
+	background-color: #E7EEEA;
+	color: inherit;
+	text-decoration: none;
+	font: var(--font_8);
+	padding-left: 194px;
+	padding-right: 194px;
+}
+.text,.text1{
+	background-color: #E7EEEA;
+	border: 1px solid;
+	width: 277px;
+	height: 43px;
+	margin-bottom: 13px;
+}
+.text:hover {
+	border-color: red;
+}
+.text1:hover {
+	background-color: green;
+}
+.life-etc{
+	font-family: sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	padding-left: 75px;
+}
+.life-etc1{
+	font-family: sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+}
+.title,.text-footer{
+	font-size: 13px;
+}
+.sub-container{
+	padding-top: 122px;
+}
