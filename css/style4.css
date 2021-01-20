@@ -1,0 +1,27 @@
+.submit-btn{
+	border: 1px solid;
+	width: 132px;
+	height: 34px;
+}
+
+.submit-btn:hover {
+	background-color: gray;
+}
+
+.form-1{
+	border: 1px solid;
+}
+
+.lb-1{
+	font-size: 14px; 
+	font-family: sans-serif;
+}
+
+.input-1{
+	width: 500px; 
+	height: 127px
+}
+
+.form-1:hover {
+	border: 2px solid gray;
+}
